@@ -2,12 +2,6 @@
 
 int result = int.Parse(Console.ReadLine());
 
-//Console.WriteLine("Choos Second number");
-//double number2 = double.Parse(Console.ReadLine());
-
-//Console.WriteLine("Choos symbol from: (+, -, *, /, %,) ");
-//String symbol = Console.ReadLine();
-
 
 if (result < 0)
 {
